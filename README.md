@@ -6,14 +6,17 @@
 - I am really interested in the field of Cybersecurity, both on the offensive and defensive side of things.
 - I love the outdoors, whether it's hiking, hunting, fishing, or really anything else.
 
-## Highlights:
 
-Favorite Language | Favorite Editor | Favorite OS | Favorite Browser
------------------ | --------------- | ----------- | ----------------
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+<div align="center">
+<h2> Fun Facts: </h2>
 
-<details>
-<summary> Languages, Operatings Systems, and other Tools </summary>
+Favorite Language | Favorite Editor | Favorite OS |
+----------------- | --------------- | ----------- |
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+<div align="left">
 
 ### Languages
 
@@ -44,5 +47,4 @@ Favorite Language | Favorite Editor | Favorite OS | Favorite Browser
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-
-</details>
+</div>

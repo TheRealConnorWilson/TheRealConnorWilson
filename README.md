@@ -7,15 +7,6 @@
 - I love the outdoors, whether it's hiking, hunting, fishing, or really anything else.
 
 
-<div align="center">
-<h2> Fun Facts: </h2>
-
-Favorite Language | Favorite Editor | Favorite OS |
------------------ | --------------- | ----------- |
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-</div>
-
 <div align="left">
 
 ### Languages

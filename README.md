@@ -1,9 +1,9 @@
 <h1 align="left">Hi There, My Name Is Connor</h1>
 
 ### A little about me:
-- I am 3rd year Computer Science student at the University of Virginia.
+- I am 4th year Computer Science student at the University of Virginia.
 - I am an Army ROTC Cadet.
-- I am really interested in the field of Cybersecurity, both on the offensive and defensive side of things.
+- I am really interested in the field of computer security, both on the offensive and defensive side of things.
 - I love the outdoors, whether it's hiking, hunting, fishing, or really anything else.
 
 
